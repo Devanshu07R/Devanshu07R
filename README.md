@@ -44,7 +44,7 @@
 ### 🧠 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,mongodb,express,react,nodejs,mysql,flask,git,github,linux,docker,go,jenkins,ruby,postman,chatgpt&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,mongodb,express,react,nodejs,mysql,flask,git,github,linux,docker,go,jenkins,ruby,postman&perline=10" />
 </p>
 
 ---
