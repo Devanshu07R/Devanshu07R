@@ -71,7 +71,7 @@
 
 ---
 
-### 🚀 My Highlights & Achievements
+### 🚀 My Highlights & Achievements:
 
 - 🥇 **Winner** – Internal Smart India Hackathon 2024  
 - 🚀 **Top 30** – Hack the Space 2024  
@@ -82,7 +82,7 @@
 
 ---
 
-### 🐍 My Contribution Snake
+### 🐍 My Contribution Snake:
 
 ![snake gif](https://github.com/Devanshu07R/Devanshu07R/blob/output/github-contribution-grid-snake.svg)
 
