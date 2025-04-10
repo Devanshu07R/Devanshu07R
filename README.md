@@ -41,7 +41,7 @@
 
 ---
 
-### 💻 Tech Stack: I love to code and debug❤️
+### 💻 Tech Stack: I love to code and fixes the bugs 😁 
 ---
 👨‍💻 I code with..
 ---
