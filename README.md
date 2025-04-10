@@ -41,8 +41,7 @@
 
 ---
 
-### 💻 Tech Stack:
----
+### 💻 Tech Stack:---
 👨‍💻 I code with..
 ---
 <p align="center">
