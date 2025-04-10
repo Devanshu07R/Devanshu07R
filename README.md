@@ -71,7 +71,7 @@
 
 ---
 
-### 🚀 My Highlights & Achievements:
+### 🚀 My Highlights & Achievements
 
 - 🥇 **Winner** – Internal Smart India Hackathon 2024  
 - 🚀 **Top 30** – Hack the Space 2024  
