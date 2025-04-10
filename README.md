@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡ About Me
+### ⚡ About Me:
 - 🎓 **B.Tech CSE** | Amity University | *Graduating 2027*
 - 🧠 Currently learning **MERN Stack**, **Node.js**, and **Backend Systems**
 - 🚀 Building: **D² NutriAI** – AI-based Diet Recommendation Platform
@@ -51,7 +51,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=tokyonight&hide_title=true" />
@@ -63,7 +63,7 @@
 
 ---
 
-### 🏆 My GitHub Trophies
+### 🏆 My GitHub Trophies:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Devanshu07R&theme=onedark&column=6" />
