@@ -41,9 +41,9 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack:
 ---
-I code with
+I code with 👨‍💻
 ---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,mongodb,express,react,nodejs,mysql,flask,git,github,linux,docker,go,jenkins,ruby,postman&perline=8" />
