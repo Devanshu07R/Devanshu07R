@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Devanshu Dasgupta</h1>
 
 <p align="center">
-  <b>Passionate C++ & Backend Developer | AI/ML Enthusiast | Building <i>D2 NutriAI</i></b>
+  <b>Passionate ML & Backend Developer | AI/ML Enthusiast | Building <i>D2 NutriAI</i></b>
 </p>
 
 <!-- Typing Animation -->
