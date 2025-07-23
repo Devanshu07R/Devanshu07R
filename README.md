@@ -24,6 +24,7 @@
 
 ### ⚡ About Me:
 - 🎓 **B.Tech CSE** | Amity University | *Graduating 2027*
+- Research ML internship at National Institute of Technology Raipur ,NITRR
 - 🧠 Currently learning **Machine learning**, **Node.js**, and **Backend Systems**
 - 🚀 Building: **D² NutriAI** – AI-based Diet Recommendation Platform
 - 🏆 Dreaming Big: To become a **Ml & Backend Engineer** & contribute to **Open Source AI**
